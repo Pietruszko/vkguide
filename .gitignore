@@ -1,3 +1,6 @@
 /build
 /bin
 /assets/brickadia
+/.cache
+
+compile_commands.json
